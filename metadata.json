@@ -1,0 +1,6 @@
+{
+  "name": "Aura-Gem-1.5",
+  "description": "Simple AI. Endless Possibilities. High-performance AI assistant with multimodal image, PDF, and document intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
